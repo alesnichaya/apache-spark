@@ -1,9 +1,0 @@
-./build/mvn -Dtest=test.org.apache.spark.streaming.Java8APISuite test -pl streaming
-./build/mvn -Dtest=test.org.apache.spark.streaming.JavaAPISuite test -pl streaming
-./build/mvn -Dtest=org.apache.spark.streaming.JavaMapWithStateSuite test -pl streaming
-./build/mvn -Dtest=org.apache.spark.streaming.JavaDurationSuite test -pl streaming
-./build/mvn -Dtest=org.apache.spark.streaming.JavaWriteAheadLogSuite test -pl streaming
-./build/mvn -Dtest=org.apache.spark.streaming.JavaReceiverAPISuite test -pl streaming
-./build/mvn -Dtest=org.apache.spark.streaming.JavaTimeSuite test -pl streaming
-./build/mvn -Dtest=test.org.apache.spark.streaming.Java8APISuite test -pl streaming
-./build/mvn -Dtest=test.org.apache.spark.streaming.JavaAPISuite test -pl streaming
