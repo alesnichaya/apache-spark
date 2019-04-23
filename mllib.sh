@@ -1,2 +1,0 @@
--Dtest=org.apache.spark.mllib.regression.JavaIsotonicRegressionSuite test -pl mllib
--Dtest=org.apache.spark.mllib.regression.JavaLassoSuite test -pl mllib
