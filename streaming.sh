@@ -1,2 +1,0 @@
--Dtest=test.org.apache.spark.streaming.Java8APISuite test -pl streaming
--Dtest=test.org.apache.spark.streaming.JavaAPISuite test -pl streaming
